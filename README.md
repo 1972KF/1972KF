@@ -1,3 +1,5 @@
+<img align="center" alt="cyrus" width="1000" height="300" src="https://github.com/1972KF/1972KF/blob/main/the-cyrus-logo.jpg">
+
 <h1 align="center">Hi 👋, I'm Cyrus</h1>
 <h3 align="center">A Computer science student and programming enthusiast</h3>
 
