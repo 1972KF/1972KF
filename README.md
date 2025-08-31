@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cyrus</h1>
 <h3 align="center">A Computer science student and programming enthusiast</h3>
 
+<img align="right" alt="cyrus" width="400" src="https://giffiles.alphacoders.com/361/36100.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1972kf&label=Profile%20views&color=0e75b6&style=flat" alt="1972kf" /> </p>
 
 - 🌱 I’m currently learning **Network, javascript, Linux**
